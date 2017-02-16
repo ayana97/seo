@@ -6,9 +6,9 @@
 <tr><td>Underscores in Links Test</td> 
 <td>The keyword should be separated by hyphens rather than underscores.</td></tr>
 <tr><td>SEO Friendly URL Test</td>
-<tr><td> An SEO friendly url must caontain only lower alphabets, numbers, slashes(/), dash(-). Underscores, upercase Alphabets and specialchars (e-g: & ? %) are nto seo friendly.</td></tr>
+<tr> An SEO friendly url must caontain only lower alphabets, numbers, slashes(/), dash(-). Underscores, upercase Alphabets and specialchars (e-g: & ? %) are nto seo friendly.</td></tr>
 <tr><td>Deprecated HTML Tags</td>
-<tr><td>There miight be mant HTML tags, which you are using in your webpage but then have been depriciated and many of the search engin do not support them. consistency,HTML Code Beauty, Process Compliance are always appreciated by good webmasters.</td></tr>
+<tr>There miight be mant HTML tags, which you are using in your webpage but then have been depriciated and many of the search engin do not support them. consistency,HTML Code Beauty, Process Compliance are always appreciated by good webmasters.</td></tr>
 </table>
 </body>
 </html>
